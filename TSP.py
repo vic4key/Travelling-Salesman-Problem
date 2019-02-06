@@ -7,7 +7,7 @@
 '''''''''''''''''''''''''''''''''
 
 import sys, random
-from Vutils import Others, Statistic, Math
+from Vutils import Others, Math
 from simanneal import Annealer
 import matplotlib.pyplot as plt
 
